@@ -1,0 +1,10 @@
+name: ncs-establishment-map
+title:
+username: psakarl
+account: psakarl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17550261
+bundleId: 12176239
+url: https://psakarl.shinyapps.io/ncs-establishment-map/
+version: 1
